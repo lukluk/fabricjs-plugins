@@ -14,6 +14,19 @@ Important note :
  * CSS Properties Style Attributes
  * Output fewer TSPAN
 
+###2. remove button on top left corner
+95%, work in progress
+###3. SavePDF
+40%, work in progress
+###4. Undo/Redo
+99%, work in progress
+###5. zoomin/zoomout
+95%, work in progress
+###6. editing toolbox 
+90%, work in progress
+###7. Improve SVG parser
+mark as future task
+
 ## Contributor are welcome 
 your pull request will 100% accpetable , we will working together to make code robust, first is willingness to contribute and help each others
 
