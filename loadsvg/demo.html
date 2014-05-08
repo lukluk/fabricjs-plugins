@@ -1,0 +1,9 @@
+<script src="loadsvg.js"></script>
+<canvas id="c" width="300px" height="400px"></canvas><br/>
+try click one object
+<script>
+var canvas = new fabric.Canvas('c');
+loadSVG('http://fabreasy.com/demo_front.svg',canvas,function(){
+    alert('done');
+});
+</script>
