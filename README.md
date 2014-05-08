@@ -4,6 +4,8 @@
 
 ## Contributor are welcome 
 > your pull request will 100% accpetable , we will working together to make code robust, first is willingness to contribute and help each others
+
 ## Author
 >lukluk luhuring santoso MT
+
 >luklukaha@gmail.com
