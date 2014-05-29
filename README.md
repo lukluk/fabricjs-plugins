@@ -1,8 +1,12 @@
+## Donate
+paypal : bankmandiri@ovi.com
+email : luklukaha@gmail.com
+
 ## List Plugin
 ###1. LoadSVG (ungroup mode) 
 load svg and make each object editable
 
-demo and source [here](http://jsfiddle.net/lukluk/8yzV9/2/)
+demo and source [here](http://jsfiddle.net/8yzV9/3/)
 
 function : function loadSVG(url,canvas,callback)
 
